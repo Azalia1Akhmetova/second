@@ -1,0 +1,11 @@
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.AssemblyReference.cache
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\Azalia\source\repos\second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
